@@ -1,0 +1,35 @@
+Python for Informatics:: [ch-1 Excercises Solutions]
+
+1.1- (c)
+         Main memory is basically your RAM.
+         Secondary Memory is any stoage device it can be HDD, Pen Drives, CD...etc
+
+1.3- 
+         compiler convert source code into object code and then executor convert object code
+         to low language or machine code
+         whereas in interpretor as soon as you type the output is displayed....therefore interpretor 
+         converts your source code into machine code simulataneously without converting into 
+         object code....
+
+1.4- (c)
+         actually in Python, all the ,machine codes or low language codes are stored in the Python.exe
+         file....so as soon as you type a code in Python and run...all the codes are converted into machine 
+         code and then it is the Python.exe file that actually runs your machine code and displays the result.
+         actually Python code gets internally converted into byte code before getting converted into machine
+         code..
+
+1.6- (b)
+         when  you are running a program from a file....then all the variables and values of the program get 
+         stored in RAM....which after the termination of program gets removed from the RAM/Main Memory.
+         and when you save the file....the file gets stored in the Secondary Memory viz HDD..etc (Secondary 
+         Memory Processing is slower than Main Memory Processing).
+
+1.7- (b)
+
+1.8- 
+         we can imagine how fast a vehicle is moving as CPU...CPU and processor of the system are nowadays 
+         same itself......
+         and the size of the vehicle whether truck..or car...or suv...actually is the RAM or Main Memory..... & the 
+         seats basically represent the Secondary Memory.........
+         BIOS is the one which links or manages operations between connected devices and CPU or processor
+         processing input output operations.....connected devices like keyboard,mouse,speaker,pen drive...any..

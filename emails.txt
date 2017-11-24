@@ -1,0 +1,16 @@
+From cwen@iupui.edu Sat Jan 5 09:14:16 2008
+From cwen@iupui.edu Sat Jan 5 09:15:16 2008
+From cwen@iupui.edu Sat Jan 5 10:14:16 2008
+From ray@media.berkeley.edu Sun Jan 5 12:14:16 2008
+From stephen.marquard@uct.ac.za Mon Jan 5 13:14:16 2008
+From louis@media.berkeley.edu Sat Tue 5 09:13:16 2008
+From zqian@umich.edu Wed Jan 5 14:14:16 2008
+From cwen@iupui.edu Wed Jan 5 15:14:16 2008
+From stephen.marquard@uct.ac.za Mon Jan 5 15:14:16 2008
+From stephen.marquard@uct.ac.za Mon Jan 5 16:14:16 2008
+From stephen.marquard@uct.ac.za Mon Jan 5 20:14:16 2008
+From stephen.marquard@uct.ac.za Mon Jan 5 22:14:16 2008
+
+
+#we have a file viz of all the email lists of a particular day.....
+#assume day is same throughout....
